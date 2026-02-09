@@ -1,1 +1,13 @@
 pypdf==6.6.2
+langchain
+langchain-mistralai
+langchain_community
+langchain_chroma
+argparse
+unstructured
+langchainhub
+python-dotenv
+streamlit
+streamlit-mic-recorder==0.0.8
+nvidia-riva-client==2.15.1
+openai==1.68.2
