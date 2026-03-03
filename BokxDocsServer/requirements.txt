@@ -1,4 +1,4 @@
-pypdf==6.6.2
+pypdf==6.7.5
 langchain
 langchain-mistralai
 langchain_community
